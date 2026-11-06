@@ -2,8 +2,8 @@ let pontos = 0;
 let respostas = [];
 
 const gabarito = [
-    "c", "a", "b", "a", "a",
-    "b", "c", "c", "b", "c"
+    "b", "a", "a", "b", "b",
+    "b", "b", "c", "a", "a"
 ];
 
 const questoes = document.querySelectorAll("main");
